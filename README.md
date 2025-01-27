@@ -4,7 +4,7 @@ First Place Winners | **Predictive Energy Modeling for Hydraulic Fracturing**
 ## Overview  
 This repository contains the complete workflow, solutions, and presentation for the Energy A.I. Hackathon 2025 hosted by The University of Texas at Austin. Our project aimed to predict energy consumption (**Grid, Diesel, and CNG**) for hydraulic fracturing operations, incorporating uncertainty modeling and domain-informed feature engineering.  
 
-Our solution was awarded **1st Place** among 15 teams based on accuracy (MAPE), code quality, and presentation.
+Our solution was awarded **1st Place** among 25 teams based on accuracy (MAPE), code quality, and presentation.
 
 ---
 
