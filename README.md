@@ -53,3 +53,21 @@ Our solution was awarded **1st Place** among 25 teams based on accuracy (MAPE), 
    ```bash
    git clone https://github.com/yourusername/energy-ai-hackathon-2025.git
    cd energy-ai-hackathon-2025
+2. Open workflow_demo.ipynb in Jupyter Notebook.
+3. Follow the notebook to reproduce data preprocessing, modeling, and predictions.
+___
+
+## Team Members
+- Paawan Desai
+- Fehmi Özbayrak
+- Ibrahim Gomaa
+- Zülküf Azizoglu
+- Yevgeniy Samarkin
+  
+---
+
+## Acknowledgments
+- **Hosts:** Prof. Michael Pyrcz, Prof. John T. Foster
+- **Sponsors:** ExxonMobil, Chevron, Phillips66, Shell, ConocoPhillips
+- **Special Thanks:** The Hildebrand Department of Petroleum and Geosystems Engineering for their support of the hackathon.
+
